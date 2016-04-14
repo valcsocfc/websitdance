@@ -1,0 +1,62 @@
+/** Website template by freewebsitetemplates.com **/
+ 
+
+#page #body #sidebar ul.navigation li a span{
+
+  left:0px;
+  padding: 0 6px 0 10px;
+  
+}
+
+
+#page #body #sidebar ul.navigation li a span{
+  
+  left:0px;
+  padding: 0 6px 0 10px;
+}
+
+
+
+#page #body #content div.hiphop  ul li ul.section{
+    
+	
+	padding-bottom:35px;
+}
+
+
+
+#page #body #content div.ballet  ul li ul.section{
+	padding-bottom:35px;
+}
+
+
+#page #body #content div.ballroom  ul li ul.section{
+padding-bottom:35px;
+
+}
+
+
+#page #body #content #section{
+   padding-top:90px;
+} 
+
+
+#page #body #content #section .body ul{
+  margin:-2px;
+}
+
+
+#page #body #content #section .body ul.gallery{
+	width: 680px;
+}
+
+
+#page #body #content #section .body .aside ul.section{
+  margin:105px 0 0 20px;
+   
+}
+
+#page #body #sidebar .connect span{
+ margin: 0;
+ 
+}

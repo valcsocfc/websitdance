@@ -1,0 +1,60 @@
+ /** Website template by freewebsitetemplates.com **/
+ 
+ #page #body #sidebar ul.navigation li a span{
+
+  
+  margin:5px 0 0 0px;
+  padding: 0 16px 0 0px;
+}
+
+
+
+#page #body #sidebar ul.navigation li a span{
+  
+  margin:5px 0 0 0px;
+  padding: 0 16px 0 0px;
+  
+}
+
+#page #body #content #section{
+   
+   padding-top:90px;
+   
+} 
+
+#page #body #content #section .body ul{   
+  
+  margin:-2px;
+  
+}
+
+#page #body #content #section .body ul.gallery{
+
+	width: 680px;
+	
+}
+
+#page #body #content #section .body .aside ul.section{
+  
+  margin:105px 0 0 20px;
+   
+}
+
+
+
+#page #body #sidebar ul.navigation li a span{
+  position:relative;
+  left:10px;
+  margin:-10px 0 0 0px;
+  padding: 2px 21px 2px 0px;
+  line-height:15px;
+  display:inline-block;
+  background:none;
+  
+}
+
+
+#page #body #sidebar .connect span{
+ margin: 0;
+ 
+}
